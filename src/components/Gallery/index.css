@@ -1,0 +1,23 @@
+.tabList {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+}
+.tabItenImage {
+  height: 75vh;
+  width: 70vw;
+}
+.home {
+  padding: 10px;
+  margin: 20px;
+}
+.head {
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.para {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: bold;
+}
